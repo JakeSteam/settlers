@@ -11,3 +11,5 @@ Changes to make it work:
 * Lowercased all the links (thanks [freman](https://github.com/Microsoft/vscode/issues/12185#issuecomment-516279301)!)
 * Converted all files to UTF8 encoding (thanks [Encoding Checker](https://github.com/amrali-eg/EncodingChecker)!)
 * Added a landing page to pick between languages.
+
+If you spot any broken links etc please [raise an issue](https://github.com/JakeSteam/settlers/issues), [tweet](https://twitter.com/JakeLeeUK), or [email me](mailto:settlers@jakelee.co.uk), thank you! 
